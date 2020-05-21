@@ -1,14 +1,13 @@
 # Robotics
 Learning how to use ev3.
-Includes usage of different sensors such as ultrasonic, gyro and many more.
 
-+Solutions: Search and Rescue, Robotic Arm
+# Functionality
+* Usage of different sensors i.e. ultrasonic, gyro, and more.
+* Search and Rescue
+* Robotic Arm
+* Ros Gazebo - interactive 4 wheeled car that can drive in a given world.
 
-+Software: EV3 PROGRAMMING SOFTWARE
+# Dependencies
+* EV3 Programming Software
+* Virtual Box installation of gazebo
 
----------------------------------------
-Included in the learning was the use of ros gazebo.
-
-+Solution: Interactive 4 wheeled car that can drive in a given world spawn.
-
-+Software: Virtual Box installation of gazebo
